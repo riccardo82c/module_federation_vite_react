@@ -1,0 +1,23 @@
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.components-showcase {
+  margin-top: 2rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.component-demo {
+  margin: 1rem 0;
+  padding: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.component-demo:last-child {
+  border-bottom: none;
+}
